@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# After you have a live HTTPS domain, add one line (example for this folder):
+# Sitemap: https://yourdomain.com/vk_cab/sitemap.php
